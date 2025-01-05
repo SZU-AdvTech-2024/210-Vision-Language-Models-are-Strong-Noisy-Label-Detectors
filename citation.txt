@@ -1,0 +1,6 @@
+@article{REPO210,
+    author = "Wei, Tong and Li, Hao-Tian and Li, Chun-Shu and Shi, Jiang-Xin and Li, Yu-Feng and Zhang, Min-Ling",
+    journal = "arXiv preprint arXiv:2409.19696",
+    title = "{Vision-Language Models are Strong Noisy Label Detectors}",
+    year = "2024"
+}
